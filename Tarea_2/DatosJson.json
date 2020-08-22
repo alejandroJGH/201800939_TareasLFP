@@ -1,0 +1,27 @@
+[
+{
+	"nombre": "Alejandro",
+	"Carnet": 201800939,
+    "Carrera": "Ingenieria",
+    "Escuela": "Ciencias y Sistemas"
+},
+{
+	"nombre": "Gerardo",
+	"Carnet": 201800500,
+    "Carrera": "Ingenieria",
+    "Escuela": "Ciencias y Sistemas"
+},
+{
+	"nombre": "Wilmer",
+	"Carnet": 201800856,
+    "Carreta": "Ingenieria",
+    "Escuela": "Industrial"
+},
+{
+	"nombre": "Eduardo",
+	"Carnet": 201800568,
+    "Carrera": "Ingenieria",
+    "Escuela": "Mecanica Industrial",
+}
+
+]
