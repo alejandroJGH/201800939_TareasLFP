@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Persona>
+  <Persona>
+    <Nombre>Alejandro García</Nombre>
+    <Edad>21</Edad>
+    <Activo>5200<Activo>
+    <Saldo>38000<Saldo>
+  </Persona>
+
+  <Persona>
+    <Nombre>Alejandro Hernandez</Nombre>
+    <Edad>19</Edad>
+    <Activo>3800<Activo>
+    <Saldo>8000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Juan García</Nombre>
+    <Edad>38</Edad>
+    <Activo>2400<Activo>
+    <Saldo>3000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Juan Pérez</Nombre>
+    <Edad>52</Edad>
+    <Activo>5400<Activo>
+    <Saldo>42000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Maria Gutierez</Nombre>
+    <Edad>45</Edad>
+    <Activo>7500<Activo>
+    <Saldo>10000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Andrea Martinez</Nombre>
+    <Edad>25</Edad>
+    <Activo>9500<Activo>
+    <Saldo>38000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Carlos Hernández</Nombre>
+    <Edad>21</Edad>
+    <Activo>6300<Activo>
+    <Saldo>8000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Cristian Rosales</Nombre>
+    <Edad>23</Edad>
+    <Activo>5100<Activo>
+    <Saldo>6000<Saldo>
+  </Persona>
+
+  <Persona>
+    <Nombre>Erik Laguardia</Nombre>
+    <Edad>30</Edad>
+    <Activo>6800<Activo>
+    <Saldo>9000<Saldo>
+  </Persona>
+
+<Persona>
+    <Nombre>Rodrigo Jimenez</Nombre>
+    <Edad>38</Edad>
+    <Activo>7800<Activo>
+    <Saldo>10000<Saldo>
+  </Persona>
+
+
+</Persona>
